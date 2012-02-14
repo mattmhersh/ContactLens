@@ -1,4 +1,5 @@
-﻿USE [C:\OMATE32\OM_SQLData\OMATESQL.mdf]
+﻿/* Install Tables */
+USE [C:\OMATE32\OM_SQLData\OMATESQL.mdf]
 GO
 /****** Object:  Table [dbo].[Replenishment]    Script Date: 02/10/2010 20:05:54 ******/
 SET ANSI_NULLS ON
