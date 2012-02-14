@@ -1,0 +1,10 @@
+C:\ContactLens\DataGridViewCustomColumn\bin\Release\DataGridViewCustomColumn.dll
+C:\ContactLens\DataGridViewCustomColumn\bin\Release\DataGridViewCustomColumn.pdb
+C:\ContactLens\DataGridViewCustomColumn\obj\Release\ResolveAssemblyReference.cache
+C:\ContactLens\DataGridViewCustomColumn\obj\Release\DataGridViewCustomColumn.dll
+C:\ContactLens\DataGridViewCustomColumn\obj\Release\DataGridViewCustomColumn.pdb
+C:\ContactLens\ContactLens\DataGridViewCustomColumn\bin\Release\DataGridViewCustomColumn.dll
+C:\ContactLens\ContactLens\DataGridViewCustomColumn\bin\Release\DataGridViewCustomColumn.pdb
+C:\ContactLens\ContactLens\DataGridViewCustomColumn\obj\Release\ResolveAssemblyReference.cache
+C:\ContactLens\ContactLens\DataGridViewCustomColumn\obj\Release\DataGridViewCustomColumn.dll
+C:\ContactLens\ContactLens\DataGridViewCustomColumn\obj\Release\DataGridViewCustomColumn.pdb

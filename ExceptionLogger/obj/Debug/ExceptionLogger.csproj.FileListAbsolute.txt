@@ -1,0 +1,10 @@
+C:\ContactLens\ExceptionLogger\bin\Debug\ExceptionLogger.dll
+C:\ContactLens\ExceptionLogger\bin\Debug\ExceptionLogger.pdb
+C:\ContactLens\ExceptionLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\ContactLens\ExceptionLogger\obj\Debug\ExceptionLogger.dll
+C:\ContactLens\ExceptionLogger\obj\Debug\ExceptionLogger.pdb
+C:\ContactLens\ContactLens\ExceptionLogger\bin\Debug\ExceptionLogger.dll
+C:\ContactLens\ContactLens\ExceptionLogger\bin\Debug\ExceptionLogger.pdb
+C:\ContactLens\ContactLens\ExceptionLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\ContactLens\ContactLens\ExceptionLogger\obj\Debug\ExceptionLogger.dll
+C:\ContactLens\ContactLens\ExceptionLogger\obj\Debug\ExceptionLogger.pdb
